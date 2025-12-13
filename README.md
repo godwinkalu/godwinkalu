@@ -42,7 +42,7 @@ I’m a passionate Backend Developer in training with 1 year of hands-on experie
 ### 🌍 Connect with Me
 
 📧 Email: **kalugodwin158@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/daniel-obinna-424b16365](https://www.linkedin.com/in/godwin-uduma-13a557321/)  
+💼 LinkedIn: [https://www.linkedin.com/in/godwin-uduma-13a557321/](https://www.linkedin.com/in/godwin-uduma-13a557321/)  
 🐙 GitHub: **github.com/godwinkalu**
 
 ---
